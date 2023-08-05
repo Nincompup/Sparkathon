@@ -1,0 +1,15 @@
+body::-webkit-scrollbar {
+    display: none;
+  }
+.signupbox{
+    width:60%;
+    box-shadow: 5px 5px 5px 5px grey;
+    margin-bottom: 3rem;
+}
+    @media (max-width: 700px) {
+       .signupbox{
+        width: 80%;
+       }
+    }
+
+
